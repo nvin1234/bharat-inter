@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Name - Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Naveen sharma</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm a passionate web developer with a keen eye for design and a love for creating seamless, user-friendly experiences. Proficient in HTML, CSS, and JavaScript, I thrive on turning innovative ideas into functional and visually appealing websites.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Mysql</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Student information system</p>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Hotel management system using MS project</p>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: sharmanaveen1631@email.com</p>
+        <p>LinkedIn: linkedin.com/in/Nveen Sharma</p>
+        <P>instagram: Nvin1631</P>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Naveen sharma. All rights reserved.</p>
+    </footer>
+</body>
+</html>
