@@ -1,2 +1,2 @@
 # bharat-inter
-task of bharat ingtership
+task of bharat internship 
